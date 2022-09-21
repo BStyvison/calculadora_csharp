@@ -1,0 +1,15 @@
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\bin\Debug\net6.0\calculadora_csharp.exe
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\bin\Debug\net6.0\calculadora_csharp.deps.json
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\bin\Debug\net6.0\calculadora_csharp.runtimeconfig.json
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\bin\Debug\net6.0\calculadora_csharp.dll
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\bin\Debug\net6.0\calculadora_csharp.pdb
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\calculadora_csharp.csproj.AssemblyReference.cache
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\calculadora_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\calculadora_csharp.AssemblyInfoInputs.cache
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\calculadora_csharp.AssemblyInfo.cs
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\calculadora_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\calculadora_csharp.dll
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\refint\calculadora_csharp.dll
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\calculadora_csharp.pdb
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\calculadora_csharp.genruntimeconfig.cache
+C:\Users\Brayan\Documents\GitHub\calculadora_csharp\obj\Debug\net6.0\ref\calculadora_csharp.dll

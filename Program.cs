@@ -30,6 +30,7 @@
                 case 4: Divisao(); break;
                 case 5: System.Environment.Exit(0); break;
                 default: Menu(); break;
+                Console.WriteLine();
             }
 
 
